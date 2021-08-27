@@ -14,13 +14,9 @@ Syntax highlighted code block
 # Manas' first CS193 homework
 
 - Fun class without too much of stress.
+- Should be useful to learn basic things which aren't there in the other CS classes.
+- Instructors are students too, so they're more approachable.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
